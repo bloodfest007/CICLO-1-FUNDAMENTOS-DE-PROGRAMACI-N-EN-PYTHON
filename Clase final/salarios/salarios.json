@@ -1,0 +1,25 @@
+{
+    "NOMBRE_EMPRESA:": "servisalarios",
+    "PAGINA_WEB" : "www.google.com",
+    "NOMINA": [ 
+        { 
+            "SALARIO" : 1200,
+            "BONOC" : 150,
+            "AUXT" : 20
+        },
+
+        { 
+            "SALARIO" : 3000,
+            "BONOC" : 200,
+            "AUXT" : 20
+        },
+
+        { 
+            "SALARIO" : 5000,
+            "BONOC" : 250,
+            "AUXT" : 70
+        }
+
+    ]
+
+}

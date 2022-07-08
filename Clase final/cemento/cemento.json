@@ -1,0 +1,22 @@
+{
+    "NOMBRE_EMPRESA:": "empresa de cementos",
+    "PAGINA_WEB" : "www.google.com",
+    "VOLUMEN": [ 
+        { 
+            "ALTO" : 1200,
+            "ANCHO" : 150
+        },
+
+        { 
+            "ALTO" : 1200,
+            "ANCHO" : 150
+        },
+
+        { 
+            "ALTO" : 1200,
+            "ANCHO" : 150
+        }
+
+    ]
+
+}

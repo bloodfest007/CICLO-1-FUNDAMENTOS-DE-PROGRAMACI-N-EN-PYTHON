@@ -1,0 +1,17 @@
+print("-------------------------------------------------------")
+print("ejercicio 1")
+print("")
+print("Programa que calcule el sueldo de un trabajador")
+
+print("Digite las horas trabajadas: ")
+ht = int(input())
+
+print("Digite el valor de hora: ")
+vh = float(input)
+
+print("Digite Nombres del trabajador: ")
+nombre = input()
+
+salario = vh * ht
+
+print("El salario calculado de ", nombre,"", "es:"  , salario)
